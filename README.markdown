@@ -1,3 +1,3 @@
 Tools for generatign big yearly calendars in Python.
 
-![Calendar 2012](http://img.skitch.com/20100714-nnyq95ntsrd96wsr7rcf5cfi1y.png "2012")
+![Calendar 2013](http://f.cl.ly/items/2v1d3m2f101M433P1a0A/2013.png "2013")
